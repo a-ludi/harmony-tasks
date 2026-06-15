@@ -5,5 +5,4 @@ chores:
   - clean-the-bathroom.yaml
   - empty-the-dishwasher.yaml
 xpTarget: 10000
-targetDate: '2026-06-30'
 allowShiftOnImport: true
