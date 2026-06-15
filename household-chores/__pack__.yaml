@@ -1,0 +1,8 @@
+title: Household Chores
+author: Mario <mario@example.com>
+createdAt: '2026-06-15T18:56:37Z'
+chores:
+  - clean-the-bathroom.yaml
+  - empty-the-dishwasher.yaml
+xpTarget: 10000
+allowShiftOnImport: true

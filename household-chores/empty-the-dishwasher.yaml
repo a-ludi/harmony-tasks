@@ -1,0 +1,6 @@
+title: Empty the dishwasher
+xpSize: S
+frequency: daily
+interval: 1
+windowStartTime: '00:00'
+repeatable: false
