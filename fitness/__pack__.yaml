@@ -1,0 +1,9 @@
+title: Fitness
+author: Mario <mario@example.com>
+createdAt: '2026-06-15T18:48:25Z'
+chores:
+  - muscle-ups.yaml
+  - push-ups.yaml
+streak: false
+xpTarget: 1000
+targetDate: '2026-06-18'

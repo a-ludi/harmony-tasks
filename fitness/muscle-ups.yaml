@@ -1,0 +1,13 @@
+title: Muscle Ups
+xpSize: XL
+frequency: daily
+interval: 1
+windowStartTime: '00:00'
+repeatable: true
+description: Do it! _Yes_, I can!
+questions:
+  - id: 1bba18cf-3d75-42f5-9601-b50e8115eff3
+    prompt: Number of Reps?
+    type: INTEGER
+    required: true
+    minValue: 1

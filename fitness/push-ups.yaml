@@ -1,0 +1,13 @@
+title: Push ups
+xpSize: S
+frequency: daily
+interval: 1
+windowStartTime: '00:00'
+repeatable: true
+questions:
+  - id: 22b80f91-22b3-431c-9e2f-94bcbdf3c3f1
+    prompt: Reps
+    required: true
+    type: MULTIPLIER
+    xpPerUnit: 0.2
+    multiplierAnswerType: integer
